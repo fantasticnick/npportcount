@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# EN: Exit immediately if any command fails.
+#Exit immediately if any command fails.
 set -e
 
 #Ensure the script is run as root
